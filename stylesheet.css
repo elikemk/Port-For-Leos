@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "BraidDead";
+    src: url("fonts/GT-Pressura-Mono-Light.woff") format('woff');
+}
+
+.h1{
+    font-family: BraidDead;
+}
